@@ -1,0 +1,15 @@
+
+Name of Quantlet: LOBDeepPP_TS_properties
+
+Published in: ''
+
+Description: 'Joint Limit order book ask and bid price predition for multiple predicton horizons with a neural networks. This script analysis and visualizes properties of the limit order book ask and bid prices.'
+
+Keywords: 'Limit order book, finance, forecasting, prediction, order book size, properties, time-series'
+
+Author: 'Marius Sterling'
+
+See also: 'LOBDeepPP'
+
+Submitted:  ''
+
